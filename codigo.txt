@@ -1,0 +1,2 @@
+def mainqq #comment
+def sum 2 + 2
